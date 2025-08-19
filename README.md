@@ -954,7 +954,9 @@ $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
 
+<img width="235" height="173" alt="image" src="https://github.com/user-attachments/assets/59ae4d93-39ba-4836-9ee6-44f59cd1d24f" />
 
+ 
 cat forctype1.sh 
 ```bash
 #!/bin/bash
@@ -1007,7 +1009,10 @@ echo "The for loop is completed“
 $ chmod 755 forbreak.sh
  
 $ ./forbreak.sh 
- 
+
+ <img width="266" height="104" alt="image" src="https://github.com/user-attachments/assets/40347aeb-f838-4289-a5c6-290465640488" />
+
+
 cat forbreak.sh 
 ```bash
 #!/bin/bash
@@ -1028,7 +1033,9 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
- 
+ <img width="331" height="178" alt="image" src="https://github.com/user-attachments/assets/69657555-406b-4006-baa0-f4bf9c5a97cf" />
+
+
 cat exread.sh 
 ```bash
 #!/bin/bash
@@ -1042,6 +1049,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
+<img width="389" height="105" alt="image" src="https://github.com/user-attachments/assets/071266b5-5577-4c81-9910-49d035475d17" />
 
 
  cat exread1.sh
@@ -1058,7 +1066,11 @@ $ chmod 755 exread1.sh
 
 
 $ ./exread1.sh 
+
  
+<img width="400" height="107" alt="image" src="https://github.com/user-attachments/assets/e82cedd7-d93b-4530-82b3-3fd10a20b4e8" />
+
+
 cat funcex.sh
 ```bash
 #!/bin/bash
@@ -1077,8 +1089,12 @@ fi
 ## OUTPUT
  ./funcex.sh 
 
+<img width="331" height="82" alt="image" src="https://github.com/user-attachments/assets/fd5162fb-81ea-4514-b27c-9024b5ae66c6" />
+
  
  ./funcex.sh 1 2
+
+<img width="274" height="81" alt="image" src="https://github.com/user-attachments/assets/e4391bf5-4b31-44ab-aafd-0a13ff62dded" />
 
  
 cat argshift.sh
@@ -1093,7 +1109,9 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- 
+
+  <img width="335" height="122" alt="image" src="https://github.com/user-attachments/assets/df8dadad-8d19-4b4b-bfbf-97fb43062877" />
+  
  cat argshift1.sh
 ```bash
  #/bin/bash 
@@ -1110,7 +1128,10 @@ done
 $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
- 
+
+<img width="309" height="127" alt="image" src="https://github.com/user-attachments/assets/99167770-90a1-4a21-9acf-827c67e4ee9c" />
+
+
 cat argshift.sh
 ```bash
 #!/bin/bash 
@@ -1123,6 +1144,7 @@ set +x
 ```
 ## OUTPUT
  ./argshift.sh 1 2 3
+ 
 <img width="509" height="421" alt="image" src="https://github.com/user-attachments/assets/1db13d86-39af-40e2-a9fe-8024cfa1856c" />
  
  
